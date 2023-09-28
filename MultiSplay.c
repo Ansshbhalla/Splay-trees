@@ -1,7 +1,4 @@
-//CODE BY-
-// ANANY DHAMIJA 2021MCB1231
-// ASHMIT GUPTA 2021MCB1232
-// TANMYA POTDAR 2021MCB1252
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
